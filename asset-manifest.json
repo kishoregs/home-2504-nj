@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/home-2504-nj/static/css/main.3a60507c.chunk.css",
+    "main.js": "/home-2504-nj/static/js/main.d16b6b3e.chunk.js",
+    "main.js.map": "/home-2504-nj/static/js/main.d16b6b3e.chunk.js.map",
+    "runtime~main.js": "/home-2504-nj/static/js/runtime~main.c7166113.js",
+    "runtime~main.js.map": "/home-2504-nj/static/js/runtime~main.c7166113.js.map",
+    "static/js/2.a482b5c2.chunk.js": "/home-2504-nj/static/js/2.a482b5c2.chunk.js",
+    "static/js/2.a482b5c2.chunk.js.map": "/home-2504-nj/static/js/2.a482b5c2.chunk.js.map",
+    "index.html": "/home-2504-nj/index.html",
+    "precache-manifest.fef23355103a5652d444b84a0b4e0183.js": "/home-2504-nj/precache-manifest.fef23355103a5652d444b84a0b4e0183.js",
+    "service-worker.js": "/home-2504-nj/service-worker.js",
+    "static/css/main.3a60507c.chunk.css.map": "/home-2504-nj/static/css/main.3a60507c.chunk.css.map",
+    "static/media/App.css": "/home-2504-nj/static/media/room-2.9ad438e9.jpg",
+    "static/media/details-1.jpeg": "/home-2504-nj/static/media/details-1.50f95a68.jpeg",
+    "static/media/details-2.jpeg": "/home-2504-nj/static/media/details-2.8857ad20.jpeg",
+    "static/media/details-3.jpg": "/home-2504-nj/static/media/details-3.47ab969e.jpg",
+    "static/media/details-4.jpg": "/home-2504-nj/static/media/details-4.c3078be3.jpg",
+    "static/media/home-2504-nj.svg": "/home-2504-nj/static/media/home-2504-nj.252b561b.svg",
+    "static/media/loading-arrow.gif": "/home-2504-nj/static/media/loading-arrow.e9ea7394.gif",
+    "static/media/room-1.jpeg": "/home-2504-nj/static/media/room-1.e928a5c4.jpeg",
+    "static/media/room-10.jpeg": "/home-2504-nj/static/media/room-10.3b5c0871.jpeg",
+    "static/media/room-11.jpeg": "/home-2504-nj/static/media/room-11.f08fee37.jpeg",
+    "static/media/room-12.jpeg": "/home-2504-nj/static/media/room-12.0e293352.jpeg",
+    "static/media/room-3.jpeg": "/home-2504-nj/static/media/room-3.7569a316.jpeg",
+    "static/media/room-4.jpg": "/home-2504-nj/static/media/room-4.c3078be3.jpg",
+    "static/media/room-5.jpeg": "/home-2504-nj/static/media/room-5.a5c06e0b.jpeg",
+    "static/media/room-6.jpeg": "/home-2504-nj/static/media/room-6.b9a34e96.jpeg",
+    "static/media/room-7.jpeg": "/home-2504-nj/static/media/room-7.e251c8d5.jpeg",
+    "static/media/room-8.jpeg": "/home-2504-nj/static/media/room-8.fa951678.jpeg",
+    "static/media/room-9.jpg": "/home-2504-nj/static/media/room-9.fc295839.jpg"
+  }
+}
