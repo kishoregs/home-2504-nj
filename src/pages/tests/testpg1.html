@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <p>hellow word</p>
+  <form class="filter-form">
+    <div class="form-group"><label for="type">room type</label><select name="type" id="type" class="form-control">
+        <option value="all">all</option>
+        <option value="single">single</option>
+        <option value="double">double</option>
+        <option value="family">family</option>
+        <option value="presidential">presidential</option>
+      </select></div>
+    <div class="form-group"><label for="capacity">Guests</label><select name="capacity" id="capacity"
+        class="form-control">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="10">10</option>
+      </select></div>
+    <div class="form-group"><label for="price">room price $600</label><input type="range" name="price" min="0" max="600"
+        id="price" class="form-control" value="600"></div>
+    <div class="form-group"><label for="price">room size </label>
+      <div class="size-inputs"><input type="number" name="minSize" class="size-input" value="0"><input type="number"
+          name="maxSize" class="size-input" value="1000"></div>
+    </div>
+    <div class="form-group">
+      <div class="single-extra"><input type="checkbox" name="breakfast" id="breakfast"><label
+          for="breakfast">breakfast</label></div>
+      <div class="single-extra"><input type="checkbox" name="pets"><label for="breakfast">pets</label></div>
+    </div>
+  </form>
+</body>
+
+</html>
