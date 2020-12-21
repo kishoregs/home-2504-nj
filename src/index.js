@@ -8,7 +8,7 @@ import { HashRouter } from "react-router-dom";
 
 ReactDOM.render(
   <RoomProvider>
-    <HashRouter>
+    <HashRouter basename="/home-2504-nj">
       <App />
     </HashRouter>
   </RoomProvider>,
