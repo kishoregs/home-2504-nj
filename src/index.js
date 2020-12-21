@@ -4,14 +4,14 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import { RoomProvider } from "./context";
-import { HashRouter } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.render(
-  <RoomProvider>
-    <HashRouter basename="/home-2504-nj">
+  <BrowserRouter>
+    <RoomProvider>
       <App />
-    </HashRouter>
-  </RoomProvider>,
+    </RoomProvider>
+  </BrowserRouter>,
   document.getElementById("root")
 );
 
