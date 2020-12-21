@@ -2,7 +2,7 @@
   "name": "home-2504-nj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kishoregs.github.io/home-2504-nj/",
+  "homepage": "https://kishoregs.github.io/home-2504-nj",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
