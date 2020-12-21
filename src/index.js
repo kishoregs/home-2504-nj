@@ -4,13 +4,13 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import { RoomProvider } from "./context";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 ReactDOM.render(
   <RoomProvider>
-    <BrowserRouter basename="./">
+    <HashRouter>
       <App />
-    </BrowserRouter>
+    </HashRouter>
   </RoomProvider>,
   document.getElementById("root")
 );
